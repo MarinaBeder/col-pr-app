@@ -1,1 +1,18 @@
 
+id,message_content,message_number
+1,ok,1
+2,"please, verify your account",2
+3,"This account is already exist",3
+4,"may be email or password incorrect",4
+5,"invaild username from catch",5
+6,"invaild username",6
+7,"vaild username and pasword {your account is saved}",7
+8,"addddddddvisa{national id}",8
+9,"this card and national id is vaild",9
+10,"invaild information",10
+11,"this BankAccount doesn't exist",11
+12,addddddddvisa{endvisa},12
+13,"this account is blocked contact with our services",13
+14,"try again to enter password",14
+15,"correct password ",15
+16,"invaild info about end of visa",16
